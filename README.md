@@ -1,3 +1,3 @@
 # solidityContracts
 
-Smart Contracts using solidity
+Smart Contracts using Solidity

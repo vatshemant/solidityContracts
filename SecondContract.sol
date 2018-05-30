@@ -6,7 +6,7 @@ interface Regulator {
 }
 
 contract Bank is Regulator {
-    uint private value;
+    uint  value;
     
     function Bank(uint amount) {
         value = amount;

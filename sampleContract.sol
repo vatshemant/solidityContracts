@@ -1,4 +1,4 @@
-pragma solidity ^0.4.0;
+pragma solidity ^0.4.0;//solidity version.
 
 contract SimpleStorage {
     uint storedData;

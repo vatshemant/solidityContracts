@@ -1,4 +1,4 @@
-pragma solidity ^0.4.0;//solidity version.
+pragma solidity ^0.4.0;
 
 interface Regulator {
     function checkValue(uint amount) returns (bool);

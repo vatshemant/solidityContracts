@@ -1,4 +1,4 @@
-pragma solidity ^0.4.0;
+pragma solidity ^0.4.0;//VERSION
 
 contract MyFirstContract {
     string private name;
